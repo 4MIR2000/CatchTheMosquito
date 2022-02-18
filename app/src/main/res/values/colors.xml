@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pink" >#ff9400ff</color>
+    <color name="blau" >#ff0005ff</color>
+    <color name="rot"  >#FFFF0034</color>
+    <color name="schwarz">#1C1C1C</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="button_start1">#2E64FE</color>
+    <color name="button_start2">#2E2EFE</color>
+    <color name="button_start3">#0000FF</color>
+    <color name="weiß">#FFFFFF</color>
+    <color name="grün1">#84ff57</color>
+    <color name="grün2">#38ff00</color>
+    <color name="button_light">#ffffdd</color>
+</resources>
